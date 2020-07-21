@@ -1,6 +1,4 @@
 # SSM-CURD
 
-![1595343247943](https://github.com/wisejayer/ssm-curd/blob/master\1595343247943.png)
-
-![1595343261135](https://github.com/wisejayer/ssm-curd/blob/master\1595343261135.png)
+mysql+spring +mybatis+springmvc实现一个简易新闻发布系统，包括查看、添加、修改和删除新闻等基本功能
 
